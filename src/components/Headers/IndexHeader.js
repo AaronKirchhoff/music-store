@@ -29,7 +29,7 @@ function IndexHeader() {
           className="page-header-image"
           style={{
             backgroundImage:
-              "url(" + require("assets/img/header.jpg").default + ")",
+              "url(" + require("assets/img/music-header.jpg").default + ")",
           }}
           ref={pageHeader}
         ></div>
@@ -38,7 +38,7 @@ function IndexHeader() {
             <img
               alt="..."
               className="n-logo"
-              src={require("assets/img/now-logo.png").default}
+              src={require("assets/img/music-note-logo2.jpg").default}
             ></img>
             <h1 className="h1-seo">Avenue Music.</h1>
             <h3>Music is life. That's why our hearts have beats.</h3>
