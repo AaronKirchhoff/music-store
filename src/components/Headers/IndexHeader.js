@@ -43,7 +43,7 @@ function IndexHeader() {
             <h1 className="h1-seo">Avenue Music.</h1>
             <h3>Music is life. That's why our hearts have beats.</h3>
           </div>
-          <h6 className="category category-absolute">
+          {/* <h6 className="category category-absolute">
             Designed by{" "}
             <a href="http://invisionapp.com/?ref=creativetim" target="_blank">
               <img
@@ -64,7 +64,7 @@ function IndexHeader() {
               ></img>
             </a>
             .
-          </h6>
+          </h6> */}
         </Container>
       </div>
     </>

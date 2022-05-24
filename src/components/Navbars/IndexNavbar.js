@@ -58,10 +58,10 @@ function IndexNavbar() {
               target="_blank"
               id="navbar-brand"
             >
-              Now UI Kit React
+              Home
             </NavbarBrand>
             <UncontrolledTooltip target="#navbar-brand">
-              Designed by Invision. Coded by Creative Tim
+              🎵Music Is Life🎶
             </UncontrolledTooltip>
             <button
               className="navbar-toggler navbar-toggler"
