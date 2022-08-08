@@ -2561,8 +2561,8 @@ p {
   .title.title-up {
     text-transform: uppercase; }
     .title.title-up a {
-      color: #2c2c2c;
-      text-decoration: none; }
+      color: #2a2a2a;
+      text-decoration: underline; }
   .title + .category {
     margin-top: -25px; }
 

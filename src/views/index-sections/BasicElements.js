@@ -51,11 +51,14 @@ function BasicElements() {
     <>
       <div className="section section-basic" id="basic-elements">
         <Container>
-          <h3 className="title">Basic Elements</h3>
-          <h4>Buttons</h4>
+          <h3 className="title">These are Basic Elements</h3>
+          <h4>New Buttons</h4>
           <p className="category">Pick your style</p>
           <Row>
             <Col md="10">
+              <Button color="info" type="button">
+                Test Button
+              </Button>
               <Button color="info" type="button">
                 Default
               </Button>
