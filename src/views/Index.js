@@ -44,8 +44,8 @@ function Index() {
         <IndexHeader />
         <div className="main">
           {/* <Images /> */}
-          <BasicElements />
-          <Navbars />
+          {/* <BasicElements /> */}
+          {/* <Navbars />
           <Tabs />
           <Pagination />
           <Notifications />
@@ -56,9 +56,9 @@ function Index() {
           <CompleteExamples />
           <SignUp />
           <Examples />
-          <Download />
+          <Download /> */}
         </div>
-        <DarkFooter />
+        {/* <DarkFooter /> */}
       </div>
     </>
   );
