@@ -45,17 +45,17 @@ function Index() {
         <div className="main">
           {/* <Images /> */}
           {/* <BasicElements /> */}
-          {/* <Navbars />
-          <Tabs />
+          {/* <Navbars /> */}
+          {/* <Tabs />
           <Pagination />
           <Notifications />
           <Typography />
           <Javascript />
           <Carousel />
           <NucleoIcons />
-          <CompleteExamples />
+          <CompleteExamples /> */}
           <SignUp />
-          <Examples />
+          {/* <Examples />
           <Download /> */}
         </div>
         {/* <DarkFooter /> */}

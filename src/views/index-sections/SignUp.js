@@ -150,6 +150,12 @@ function SignUp() {
               View Login Page
             </Button>
           </div>
+          <div className="dailyUI" color="white" >
+            <h4 
+            
+            color="default"
+            >Hello world</h4>
+          </div>
         </Container>
       </div>
     </>
